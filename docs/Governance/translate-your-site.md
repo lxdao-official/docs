@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
-# Translate your site
+# TODO remove
 
 Let's translate `docs/intro.md` to French.
 
@@ -70,7 +70,6 @@ module.exports = {
 ```
 
 The locale dropdown now appears in your navbar:
-
 
 ## Build your localized site
 
