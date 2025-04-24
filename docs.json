@@ -1,102 +1,85 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "name": "Mint Starter Kit",
-  "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
-  },
-  "favicon": "/favicon.svg",
-  "navigation": {
-    "tabs": [
-      {
-        "tab": "Guides",
-        "groups": [
-          {
-            "group": "Get Started",
+    "$schema": "https://mintlify.com/docs.json",
+    "theme": "mint",
+    "name": "LXDAO - Gather the power of buidlers to buidl and support “LX” (valuable) Web3 projects sustainably and welcome 1 billion users into Web3",
+    "description": "LXDAO is an R&amp;D-focused DAO in Web3.Our mission: Gather the power of buidlers to buidl and support “LX” (valuable) Web3 projects sustainably and welcome 1 billion users into Web3.",
+    "colors": {
+        "primary": "#3c7aff",
+        "light": "#3c7aff",
+        "dark": "#3c7aff"
+    },
+    "favicon": "/image.jpeg",
+    "navigation": {
+        "groups": [{
+            "group": "LXDAO",
             "pages": [
-              "introduction",
-              "quickstart",
-              "development"
+                "docs/jian-jie",
+                "docs/xuan-yan",
+                "docs/shi-ming-yuan-jing-he-jia-zhi-guan",
+                "docs/web3-gong-gong-wu-pin",
+                "docs/shen-fen-ti-xi",
+                {
+                    "group": "👥 组织架构",
+                    "pages": [
+                        "docs/zu-zhi-jia-gou/zu-zhi-jia-gou",
+                        "docs/zu-zhi-jia-gou/gong-zuo-zu",
+                        "docs/zu-zhi-jia-gou/xiang-mu-zu"
+                    ]
+                },
+                {
+                    "group": "📒 治理机制",
+                    "pages": [
+                        "docs/zhi-li-ji-zhi/zhi-li-ji-zhi",
+                        "docs/zhi-li-ji-zhi/ji-du-yun-xing",
+                        "docs/zhi-li-ji-zhi/ti-an-liu-cheng",
+                        "docs/zhi-li-ji-zhi/tou-piao-gui-ze",
+                        "docs/zhi-li-ji-zhi/guo-ku-zi-jin"
+                    ]
+                },
+                {
+                    "group": "🥇 经济模型",
+                    "pages": [
+                        "docs/jing-ji-mo-xing/jing-ji-mo-xing",
+                        "docs/jing-ji-mo-xing/zhi-li-dai-bi-lx",
+                        "docs/jing-ji-mo-xing/gong-xian-zheng-ming-lxp"
+                    ]
+                },
+
+                "docs/gong-xian-ji-lu",
+                "docs/lu-xian-tu",
+                "docs/xing-wei-zhun-ze",
+                "docs/gong-gong-ri-li",
+                "docs/faq"
             ]
-          },
-          {
-            "group": "Essentials",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API Reference",
-        "groups": [
-          {
-            "group": "API Documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
-        ]
-      }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+        }],
+        "global": {
+            "anchors": [{
+                "anchor": "Notion",
+                "href": "https://lxdao.notion.site",
+                "icon": "book-open-cover"
+            }, {
+                "anchor": "Forum",
+                "href": "https://forum.lxdao.io",
+                "icon": "messages"
+            }]
         }
-      ]
+    },
+    "logo": {
+        "light": "/logo/light.svg",
+        "dark": "/logo/dark.svg"
+    },
+    "navbar": {
+        "primary": {
+            "type": "button",
+            "label": "lxdao.io",
+            "href": "https://lxdao.io"
+        }
+    },
+    "footer": {
+        "socials": {
+            "x": "https://twitter.com/LXDAO_Official",
+            "telegram": "https://t.me/LXDAO",
+            "github": "https://github.com/lxdao-official"
+        }
     }
-  },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
-  "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
-    }
-  },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
-    }
-  }
 }
