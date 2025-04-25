@@ -1,0 +1,45 @@
+---
+title: "Pod"
+description: "快速、轻量、自主自发的小组"
+---
+
+- Pod 成立无需社区提案，适合早期项目、Research，以及任何小型项目。
+- 由 Dev 工作组审核通过后即可启动 Pod。
+- Pod 审核工作每周进行，并将在论坛输出周报，欢迎查看。
+
+## **如何发起或参与 Pod？**
+
+- **谁可以发起 Pod**：所有 LXDAO Member（个人或团队形式均可）
+- **如何申请发起 Pod？**
+    - 前往申请页面：[https://forum.lxdao.io/t/lip70-lxdao-pod-group-build-lifecycle/2674/3](前往申请页面：https://forum.lxdao.io/t/lip70-lxdao-pod-group-build-lifecycle/2674/3)，按格式提交申请。
+    - 由 LXDAO Dev 工作组审核
+    - Pod 通过审核后，进行社区公示
+    - 如 Pod 未通过审核，则按要求继续修改后可继续申请
+    
+- **Pod 申请格式模板**
+    - **项目名称**：请提供你项目的名称
+    - **项目描述**：简要描述你的项目目标与计划，What：是什么？Why：为什么建立？How：怎么解决问题？
+    - **联系方式**：请提供联系方式：Telegram 或 WeChat
+    - **钱包地址**：完成 LXDAO Onboarding 的钱包地址
+    - **资金申请**：填写你的资金申请数量，Pod 申请的资金数量通常在 300~500 USDT，后续资金奖励将在季度末采取追溯性奖励，用于早期快速启动和验证需求。针对一些大型的资金需求，可走正式立项流程
+    - **Milestone 计划**：具体说明项目将达成的阶段性目标。如：2025 年 5 月 1 日完成功能开发等
+    - **项目需求（可选）**：请列出你在项目中所需要的支持，包括资源、人员、测试、运营等
+
+- **Pod 可获取社区支持**
+    - **技术及经验支持**：工作组可协助 Pod 在社区进行项目进展分享，收集社区建议
+    - **管理及工具支持**：提供 Notion/FairSharing 模板，协助 Pod 进行产品、人员和资源管理
+    - **资源支持**：提供技术、运营和合作伙伴等方面的支持
+    - **Grants 支持**：提供启动资金及 Milestone 解锁资金支持
+
+## **其他补充**
+
+- 关于 Pod 的更多信息，请查看：[https://forum.lxdao.io/t/lip70-lxdao-pod-group-build-lifecycle/2674](https://forum.lxdao.io/t/lip70-lxdao-pod-group-build-lifecycle/2674)
+
+- Pod 指南：[https://forum.lxdao.io/t/lxdao-pod-pod/2792](https://forum.lxdao.io/t/lxdao-pod-pod/2792)
+
+- 现有社区 Pod 及审核进度，请前往[Dev Working Group](https://www.notion.so/Dev-Working-Group-1b9dceffe40b80b79327ef120de3da4d?pvs=21) 查看
+
+- 如有任何问题：
+
+  - 可在 Telegram 相关频道或微信群提问
+  - 可联系 @开发组 成员咨询了解
